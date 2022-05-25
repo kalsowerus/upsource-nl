@@ -1,0 +1,13 @@
+{
+    "name": "Upsource NL",
+    "manifest_version": 3,
+    "version": "0.1",
+    "description": "Sets Upsource code font-family to 'JetBrains Mono NL'",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "css": ["style.css"]
+        }
+    ]
+}
+
