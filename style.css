@@ -1,4 +1,4 @@
-.CodeMirror, .code-comment__text code, .code-comment__dialog code, .comment-dialog__preview {
+.CodeMirror, .code-comment__text code, .code-comment__dialog code, .comment-dialog__preview code {
     font-family: "JetBrains Mono NL","JetBrains Mono",monospace !important;
 }
 
